@@ -1,0 +1,10 @@
+/* src/components/UserCreateForm.css */
+.modal-body {
+    text-align: left;
+}
+
+.form-group label {
+    display: block;
+    text-align: left;
+    /*font-weight: bold; Opcional: resalta el texto de la etiqueta */
+}
